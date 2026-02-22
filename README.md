@@ -4,20 +4,12 @@
 
 <p align="justify"> My name is Andréa Fechner (she/her), I am a PhD candidate in Marketing Mix Modelling and a technology enthusiast. I am a medicinal chemist with a master's degree in Business Administration, focusing on finance and marketing. Currently, I work in finance as a business analyst and have a strong interest in marketing and financial modelling.
 
-I entered the world of technology in elementary school when I discovered web development and robotics. At that time, I learned HTML and CSS after school and Scratch in my robotics class. Later, in college, I fell in love with Python and Machine Learning. Now, I am entering the world of data science.  </p>
+I entered the tech world in middle school when I discovered web development and robotics. At that time, I learned HTML and CSS after school and Scratch in my robotics class. Later, in college, I fell in love with Python and Machine Learning. Now, I am entering the world of data science. </p>
 
 ###
 
 <p align="left">🌱 I’m currently learning: SQL and rediscovering Python. <br> 
 📫 Let's connect: Open to collaborating on Data Science and Analytics projects. </p>
-<div align="left">
-  <a href="https://www.linkedin.com/in/afechner/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
- </a> @afechner
- </div>
-
-
-
 
 <h2 align="left">Tools</h2>
 

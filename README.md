@@ -2,9 +2,7 @@
 
 ###
 
-<p align="justify"> My name is Andréa Fechner (she/her), I am a PhD candidate in Marketing Mix Modelling and a technology enthusiast. I am a medicinal chemist with a master's degree in Business Administration, focusing on finance and marketing. Currently, I work in finance as a business analyst and have a strong interest in marketing and financial modelling.
-
-I entered the tech world in middle school when I discovered web development and robotics. At that time, I learned HTML and CSS after school and Scratch in my robotics class. Later, in college, I fell in love with Python and Machine Learning. Now, I am entering the world of data science. </p>
+<p align="justify"> My name is Andréa Fechner (she/her). I am a medicinal chemist with a master's degree in Business Administration, focusing on finance and marketing. Currently, I work in finance as a business analyst and have a keen interest in marketing and financial modelling for my PhD thesis.
 
 ###
 

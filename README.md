@@ -2,7 +2,7 @@
 
 ###
 
-<p align="justify">I am Andréa Fechner, I am a medicinal chemist with a master's degree in Business Administration, focusing on finance and marketing. Currently, I work in finance as a business analyst and have a keen interest in marketing and financial modelling for my PhD thesis.
+<p align="justify">I am Andréa Fechner, a medicinal chemist with a master's degree in Business Administration, focusing on finance and marketing. Currently, I work in finance as a business analyst and have a keen interest in marketing and financial modelling for my PhD thesis.
 
 ###
 
